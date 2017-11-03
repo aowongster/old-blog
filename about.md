@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a software engineer with interests in digital signal processing, machine learning, and building cool things.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a cat named Almond, whom I teach tricks.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alistair@alistairwong.com](mailto:alistair@alistairwong.com)
